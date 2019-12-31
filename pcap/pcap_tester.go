@@ -19,7 +19,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/gopacket/pcap"
+	"github.com/zhangmingkai4315/gopacket/pcap"
 )
 
 var mode = flag.String("mode", "basic", "One of: basic,filtered,timestamp")

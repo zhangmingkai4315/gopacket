@@ -15,7 +15,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/google/gopacket"
+	"github.com/zhangmingkai4315/gopacket"
 	"golang.org/x/sys/unix"
 )
 
